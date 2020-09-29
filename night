@@ -1,0 +1,4 @@
+.include foo
+.include bar
+.define FOO 1
+FOO
